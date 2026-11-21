@@ -1,7 +1,7 @@
 ---
 title: Biography
-layout: about
-permalink: /about.html
+layout: biography
+permalink: /biography.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
