@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: Biography
-permalink: /biography/
+permalink: /biography.html
 ---
 
 # Autobiography
