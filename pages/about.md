@@ -14,7 +14,7 @@ credits: true
 
 ## About the Page
 
-This projects aims to collect and present the works of Nora Aunor. We find his/her works relevant because… 
+This project aims to collect and present the works of Nora Aunor. We find her works relevant because, as a National Artist for Film and Broadcast Arts, her body of work remains an iconic part of Philippine cinema. This collection aims to preserve the legacy of the late Nora Aunor by showcasing her remarkable artistry and significant contributions to the Philippine film industry.
 
 This database was developed by Kylie Agluba, John Ariem, Viane Gabo, Carynna Nery, and Cristine Potorio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
 
