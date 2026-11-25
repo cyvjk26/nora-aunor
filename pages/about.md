@@ -11,13 +11,11 @@ credits: true
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Page
 
 This projects aims to collect and present the works of Nora Aunor. We find his/her works relevant because… 
 
 This database was developed by Kylie Agluba, John Ariem, Viane Gabo, Carynna Nery, and Cristine Potorio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
-
 ## About the Superstar
 
 Nora Aunor (1953–2025) was a National Artist and the most awarded Filipino actress, known for her dramatic roles and music career. Nora Cabaltera Villamayor, universally recognized by her stage name Nora Aunor, was a preeminent Filipino actress, producer, and singer whose career spanned over five decades. Born in 1953 in Iriga, Camarines Sur, in the Luzon region, she rose from humble beginnings to become one of the most influential cultural figures in Philippine history. Aunor was widely regarded as the most awarded Filipino actress in history, earning the moniker "Superstar" of the Philippines for her unparalleled box-office dominance and critical acclaim. Her professional legacy was formally cemented when she was conferred the title of National Artist of the Philippines for Film and Broadcast Arts in 2022, a distinction that highlighted her profound impact on the nation's cinematic and musical landscapes.
