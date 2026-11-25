@@ -10,7 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Page;About the Superstar" %}
+
+## About the Page
+
+This projects aims to collect and present the works of Nora Aunor. We find his/her works relevant because… 
+
+This database was developed by Kylie Agluba, John Ariem, Viane Gabo, Carynna Nery, and Cristine Potorio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
 
 ## About the Superstar
 
