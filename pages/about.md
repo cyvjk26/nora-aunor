@@ -10,13 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="objects/nora-aunor-header.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Page;About the Superstar" %}
+{% include feature/nav-menu.html sections="About the Page;About the Superstar;Credits" %}
 
 ## About the Page
 
 This project aims to collect and present the works of Nora Aunor. We find her works relevant because, as a National Artist for Film and Broadcast Arts, her body of work remains an iconic part of Philippine cinema. This collection aims to preserve the legacy of the late Nora Aunor by showcasing her remarkable artistry and significant contributions to the Philippine film industry.
-
-This database was developed by Kylie Agluba, John Ariem, Viane Gabo, Carynna Nery, and Cristine Potorio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
 
 ## About the Superstar
 
@@ -26,3 +24,10 @@ Aunor appeared in more than 170 motion pictures, many of which were celebrated f
 
 The passing of Nora Aunor in 2025 marked the end of an era in Philippine entertainment. Her death was met with widespread mourning from fans, colleagues, and critics alike, who celebrated her life and legacy as a trailblazer for Filipino women in the arts. Aunor’s career remains a testament to her talent, resilience, and dedication to her craft, leaving an indelible mark on the cultural heritage of the Philippines. Her story continues to inspire new generations of artists, serving as a reminder of the power of performance to reflect and shape societal values.
 
+## Credits
+
+This database was developed by Kylie Agluba, John Ariem, Viane Gabo, Carynna Nery, and Cristine Potorio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
+
+The films are embedded from YouTube and remain the property of their respective owners. This site does not host any video.
+
+The site is built with CollectionBuilder, an open source framework for digital collections, and is hosted on GitHub Pages.
