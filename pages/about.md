@@ -33,9 +33,9 @@ The films are embedded from YouTube and remain the property of their respective 
 The site is built with CollectionBuilder, an open source framework for digital collections, and is hosted on GitHub Pages.
 
 ## References
-"Nora Aunor" on English Wikipedia
-Nora Aunor - National Commission for Culture and the Arts
-Nora Aunor - National Historical Commission of the Philippines
-Nora Aunor - National Museum of the Philippines
-Nora Aunor - Department of Tourism
+"Nora Aunor" on English Wikipedia,
+Nora Aunor - National Commission for Culture and the Arts,
+Nora Aunor - National Historical Commission of the Philippines,
+Nora Aunor - National Museum of the Philippines,
+Nora Aunor - Department of Tourism,
 Nora Aunor - Atlas Pilipinas
